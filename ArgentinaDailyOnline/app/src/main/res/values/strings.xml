@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Argentina Daily</string>
+
+
+    <!-- Tab Labels !-->
+    <string name="tab_label_business">Economía</string>
+    <string name="tab_label_technology">Tecnología</string>
+    <string name="tab_label_world">Internacional</string>
+    <string name="tab_label_politics">Politica</string>
+    <string name="article_activity_label">Article Activity</string>
+
+
+    <!-- Array of articles! !-->
+    <array name="articles_array">
+        <item>@array/article1_details</item>
+        <item>@array/article2_details</item>
+        <item>@array/article3_details</item>
+        <item>@array/article4_details</item>
+        <item>@array/article5_details</item>
+        <item>@array/article6_details</item>
+    </array>
+
+
+    <string name="lorem_ipsus">"
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+\n \n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+\n \n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+\n \n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        </string>
+    <string name="pipe">|</string>
+    <string name="action_settings_label">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="preferences">Preferences</string>
+    <string name="about">About</string>
+    <string name="support">Support</string>
+    <string name="notification">Notifications</string>
+
+
+    <!-- Preferences Preferences -->
+    <string name="night_mode_preference">Night mode</string>
+    <string name="night_mode_enabled">The night mode is enabled!</string>
+    <string name="night_mode_disabled">The night mode is disabled!</string>
+
+    <!-- Notification Preferences -->
+    <string name="notification_settings">Notification Settings</string>
+    <string name="notification_label">Notifications</string>
+    <string name="notification_sound">Sounds</string>
+    <string name="notification_vibrate">Vibrate</string>
+    <string name="notification_disabled">Disabled</string>
+    <string name="notification_enabled">Enabled</string>
+
+
+
+    <!-- Support Preferences -->
+    <string name="version_label">Version</string>
+    <string name="app_version">1.0.0</string>
+    <string name="privacy_policy_label">Privacy Policy</string>
+    <string name="terms_and_conditions_label">Terms and Conditions</string>
+
+
+    <!-- About Preferences -->
+    <string name="contact_us_label">Contact Us</string>
+    <string name="share_action_button">Share</string>
+    <string name="night_mode_action_button">Night Mode</string>
+
+
+</resources>

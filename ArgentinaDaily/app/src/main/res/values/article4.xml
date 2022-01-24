@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="article4_details">
+        <item>@array/article4_details_string</item>
+        <item>@drawable/techno</item>
+    </array>
+
+    <string-array name="article4_details_string">
+        <item>Argentina en la vanguardia digital con Technisis</item>
+        <item>La empresa argentina compite globalmente en la transformación digital</item>
+        <item>Transformación digital por El Lechu informa</item>
+        <item>@string/lorem_ipsus</item>
+        <item>Lechuga Maggiolo</item>
+        <item>21 Diciembre 2001</item>
+        <item>@string/tab_label_technology</item>
+    </string-array>
+</resources>

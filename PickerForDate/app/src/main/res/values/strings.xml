@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Picker For Date</string>
+    <string name="message">Hello World! Pick a date!</string>
+    <string name="date_text">Date</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="data_picker">datePicker</string>
+    <string name="date">\"Date: \"</string>
+</resources>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SecondActivity">
+
+    <Button
+        android:id="@+id/button_rice"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:background="#FAEFF398"
+        android:onClick="returnProduct"
+        android:text="@string/button_rice_text"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/button_pasta"
+        app:layout_constraintEnd_toStartOf="@+id/button_cheese"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/header_second" />
+
+    <Button
+        android:id="@+id/button_pizza"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:background="#FF0000"
+        android:onClick="returnProduct"
+        android:text="@string/button_pizza_label"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/button_pasta"
+        app:layout_constraintTop_toBottomOf="@+id/button_cheese" />
+
+    <Button
+        android:id="@+id/button_cheese"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:background="#ECE002"
+        android:onClick="returnProduct"
+        android:text="@string/button_cheese_text"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/button_pizza"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/button_rice"
+        app:layout_constraintTop_toTopOf="@id/header_second" />
+
+    <Button
+        android:id="@+id/button_pasta"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:background="#FF9800"
+        android:onClick="returnProduct"
+        android:text="@string/button_pasta_text"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/button_pizza"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button_rice" />
+
+    <TextView
+        android:id="@+id/header_second"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:text="@string/header_second_text"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

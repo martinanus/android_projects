@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "513723137204",
+    "firebase_url": "https://argentinadaily-2315c.firebaseio.com",
+    "project_id": "argentinadaily-2315c",
+    "storage_bucket": "argentinadaily-2315c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513723137204:android:41c36f8278cf8ecedf6be1",
+        "android_client_info": {
+          "package_name": "com.example.android.argentinadailyonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513723137204-7t5dluqd1uskif3asm1dtpn2v83tdobq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2VSR5d983t7pOHdeOjv125B8B48HLvcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513723137204-7t5dluqd1uskif3asm1dtpn2v83tdobq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="article2_details">
+        <item>@array/article2_details_string</item>
+        <item>@drawable/reactivacion_economica</item>
+    </array>
+
+    <string-array name="article2_details_string">
+        <item>Reactivación Económica</item>
+        <item>La economía de presidente Fernández arroja sus primeros resultados</item>
+        <item>Foto del congreso del dia 14 de marzo. Fuente: Prensa Nacional</item>
+        <item>@string/lorem_ipsus</item>
+        <item>tinchox</item>
+        <item>14 de Marzo 2020</item>
+        <item>@string/tab_label_business</item>
+    </string-array>
+
+
+
+</resources>

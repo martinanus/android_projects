@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Shopping</string>
+    <string name="button_add_text">ADD PRODUCT</string>
+    <string name="header_main_text">These are your products!</string>
+    <string name="empty_product">Empty</string>
+    <string name="second_activity_name">Second Activity</string>
+    <string name="button_rice_text">RICE</string>
+    <string name="button_pasta_text">PASTA</string>
+    <string name="button_pizza_label">PIZZA</string>
+    <string name="button_cheese_text">CHEESE</string>
+    <string name="header_second_text">Select your product!</string>
+</resources>

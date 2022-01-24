@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <array name="article3_details">
+        <item>@array/article3_details_string</item>
+        <item>@drawable/albert_frdz</item>
+    </array>
+
+    <string-array name="article3_details_string">
+        <item>Dichos de Alberto Fernandez</item>
+        <item>Qué dijo y qué consecuencias trae sus declaraciones</item>
+        <item>El presidente en rueda de prensa. Fuente: Tito Peralta</item>
+        <item>@string/lorem_ipsus</item>
+        <item>Jacobo Rousseaus</item>
+        <item>Sábado 3 de Mayo</item>
+        <item>@string/tab_label_politics</item>
+    </string-array>
+</resources>

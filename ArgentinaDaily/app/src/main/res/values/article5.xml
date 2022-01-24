@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="article5_details">
+        <item>@array/article5_details_string</item>
+        <item>@drawable/kim</item>
+    </array>
+
+    <string-array name="article5_details_string">
+        <item>Fuertes declaraciones de Kim</item>
+        <item>El presidente koreano habría dado una rueda de prensa muy polémica</item>
+        <item>img descr</item>
+        <item>@string/lorem_ipsus</item>
+        <item>Jacobo</item>
+        <item>Viernes 12 de Junio</item>
+        <item>@string/tab_label_world</item>
+    </string-array>
+</resources>

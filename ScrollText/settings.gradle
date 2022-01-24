@@ -1,0 +1,2 @@
+rootProject.name='Scroll Text'
+include ':app'

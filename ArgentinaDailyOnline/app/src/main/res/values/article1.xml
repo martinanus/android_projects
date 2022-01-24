@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <array name="article1_details">
+        <item>@array/article1_details_string</item>
+        <item>@drawable/stocks</item>
+    </array>
+
+    <string-array name="article1_details_string">
+        <item>Volatilidad financiera</item>
+        <item>Un fenómeno conocido por los argentinos hace décadas</item>
+        <item>Imagen representativa de la volatilidad financiera en la joranda de hoy en al bolsa argentina. Fuente: Juan Rojo</item>
+        <item>@string/lorem_ipsus</item>
+        <item>Tomas Perez</item>
+        <item>Martes 12 de Diciembre 2020</item>
+        <item>@string/tab_label_business</item>
+    </string-array>
+
+
+
+
+
+
+</resources>

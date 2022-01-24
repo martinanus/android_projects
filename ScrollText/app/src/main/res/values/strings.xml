@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Scroll Text</string>
+    <string name="article_title">The pandemia is over!</string>
+    <string name="article_subtitle"><b>And now… what?</b> </string>
+    <string name="article_text">
+    This tuesday morning we got the news that the previous day there was any case of virus in the entire world. That menas, by definition that the pandemia is over. \n \n
+    After 123 days of pain and quarantine all around the world, <b>today the sun is shinning in the sky.</b> \n \n
+    The families and the people are enjoying the sunny day going to parks and walking near the river. \n \n
+    <i>My city Paris </i> has all their shops open and the people is running to them to buy baguettes and other nice and delicious products of the original french bakery. \n \n
+    For more information, please visit the following website: https://www.martineneuropa.blogspot.com \n \n
+    Thank you for reading and we hope a better world.
+    </string>
+    <string name="add_comment">Add Comment</string>
+    <string name="like">Like</string>
+</resources>
